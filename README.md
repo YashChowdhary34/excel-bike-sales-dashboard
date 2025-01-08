@@ -52,6 +52,8 @@ The dashboard consolidates all analyses into an interactive and visually engagin
 
 This dashboard provides stakeholders with actionable insights at a glance.
 
+![Capturedash](https://github.com/user-attachments/assets/946eb16f-b0ad-4cdb-98fc-64342b1c29aa)
+
 ## Future Work
 - **Advanced Analysis**: Incorporating predictive modeling to identify potential buyers.
 - **Dynamic Dashboards**: Enhancing interactivity with advanced tools like Power BI or Tableau.
